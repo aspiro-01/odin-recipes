@@ -1,0 +1,25 @@
+
+
+.name{
+    
+    background-color: rgb(209, 18, 66);
+    height: 40px;
+    width: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.image{
+    background-color: rgb(223, 96, 125);
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.intro{
+    background-color: rgb(239, 177, 8);
+    max-width: auto;
+    height: 100px;
+    text-align: center;
+    padding-top: 1px;
+    margin-top: 2px;
+    font-size: 20px;
+}
